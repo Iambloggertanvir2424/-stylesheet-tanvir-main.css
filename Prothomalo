@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Prothoma';
+    src: url('Tanvir/font/css/hinted-Prothoma.woff2') format('woff2'),
+        url('Tanvir/font/css/hinted-Prothoma.woff') format('woff'),
+        url('Tanvir/font/css/hinted-Prothoma.svg#Prothoma') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: normal;
+}
